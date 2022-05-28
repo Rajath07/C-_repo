@@ -50,6 +50,7 @@ int Car::setNumGears(int g){
 int main(){
     
     cout<< "This is a practice program" << endl;
+    cout << "Hello World" << endl;
     Car BMW;
     BMW.speed = 100;
     BMW.name = "M4";
